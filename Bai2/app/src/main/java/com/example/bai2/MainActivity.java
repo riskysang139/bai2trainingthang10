@@ -45,6 +45,7 @@ public class MainActivity extends Activity {
                     timerHandler.postDelayed(timerRunnable, 0);
                     btnAction.setText("stop");
                     btnAction.setText("stop");
+                    btnAction.setText("stop");
                 }
             }
         });
