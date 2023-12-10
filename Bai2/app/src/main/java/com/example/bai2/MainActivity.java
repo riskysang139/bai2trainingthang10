@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
                     startTime = System.currentTimeMillis();
                     timerHandler.postDelayed(timerRunnable, 0);
                     btnAction.setText("stop");
+                    btnAction.setText("stop");
                 }
             }
         });
