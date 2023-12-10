@@ -54,6 +54,8 @@ public class MainActivity extends Activity {
         super.onPause();
         timerHandler.removeCallbacks(timerRunnable);
         btnAction.setText("start");
+        btnAction.setText("1");
+        btnAction.setText("2");
     }
 
     private void initView() {
