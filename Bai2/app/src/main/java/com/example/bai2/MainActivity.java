@@ -46,6 +46,8 @@ public class MainActivity extends Activity {
                     btnAction.setText("stop");
                     btnAction.setText("stop");
                     btnAction.setText("stop");
+                    btnAction.setText("stop2");
+                    btnAction.setText("stop3");
                 }
             }
         });
